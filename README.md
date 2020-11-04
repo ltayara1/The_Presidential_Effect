@@ -34,7 +34,7 @@ Unemployment was adjusted using a 12-month step to indicate full years rather th
 ## **Final Analysis**
 
 #### Question 1: What economic effect (stock market, Real GDP, unemployment, balance of trade) occurred during each president?
-When assessing the president’s impact on the economy this was separated into four sections: stock market, REAL GDP, unemployment, and balance of trades. Firstly, when it comes to stock it is apparent that the presidents have little impact on the growth and changes in the stock market seeing as how the market line was growing in a general positive direction despite the year and the president (See Figure 1.1). When it comes to Real GDP it seems that it is similar to stock market in the fact that the line trends positively through all years regardless of the president. The few changes in the line are most likely due to external factors likely unrelated to presidential policies. There was a positive general trend on trade during Reagan’s terms, and this seemed like he reached this in the end of his second term. Another presidency that showed an overall positive trade outcome was Obama, which was quite a significant change. Bush Sr. generally showed a positive trade trends during his single term. Clinton showed negative balance of trades in his first and second term. Bush Jr. had a similar impact as Clinton and had a general negative balance of trade during his presidency but increased during his second term. Recently, in the assessment of Trump’s presidency, there was a negative trend on the balance of trade in his first term. When it comes to the unemployment rate the presidents that lowered the unemployment rate were Reagan, Clinton, Obama, and Trump, thus showing a positive trend on this economic indicator. Both Bush Sr. and Bush Jr. had a rise in unemployment, but there was slight decrease in unemployment in Bush Jr.’s second term.
+When assessing the president’s impact on the economy this was separated into four sections: stock market, REAL GDP, unemployment, and balance of trades. Firstly, when it comes to stock it is apparent that the presidents have little impact on the growth and changes in the stock market seeing as how the market line was growing in a general positive direction despite the year and the president. When it comes to Real GDP it seems that it is similar to stock market in the fact that the line trends positively through all years regardless of the president. The few changes in the line are most likely due to external factors likely unrelated to presidential policies. There was a positive general trend on trade during Reagan’s terms, and this seemed like he reached this in the end of his second term. Another presidency that showed an overall positive trade outcome was Obama, which was quite a significant change. Bush Sr. generally showed a positive trade trends during his single term. Clinton showed negative balance of trades in his first and second term. Bush Jr. had a similar impact as Clinton and had a general negative balance of trade during his presidency but increased during his second term. Recently, in the assessment of Trump’s presidency, there was a negative trend on the balance of trade in his first term. When it comes to the unemployment rate the presidents that lowered the unemployment rate were Reagan, Clinton, Obama, and Trump, thus showing a positive trend on this economic indicator. Both Bush Sr. and Bush Jr. had a rise in unemployment, but there was slight decrease in unemployment in Bush Jr.’s second term.(See Figure 1.1)
 
 *Figure 1.1: All Presidential Plots from 1981 Until Current*
 
@@ -46,7 +46,7 @@ Our data showed that for Real GDP and Dow Jones stock the president was independ
 
 *Figure 1.2: All Years Real GDP data*
 
-![all_year_gdp](https://github.com/ltayara1/Fintech_project_1/blob/main/images/all_years_gdp.PNG)
+![all_years_gdp](https://github.com/ltayara1/Fintech_project_1/blob/main/images/all_years_gdp.PNG)
 
 *Figure 1.3: All Years Stock Data*
 
@@ -67,7 +67,7 @@ Across trade and unemployment, different presidential parties showed different r
 
 ![obama_unemployment](https://github.com/ltayara1/Fintech_project_1/blob/main/images/obama_unemployment.PNG)
 
-*Figure 1.7: Obama unemployment Data*
+*Figure 1.7: Obama Balance of Trade Data*
 
 ![obama_trade](https://github.com/ltayara1/Fintech_project_1/blob/main/images/obama_trade.PNG)
 
