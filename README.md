@@ -44,7 +44,7 @@ When assessing the president’s impact on the economy this was separated into f
 #### Question 2: Are the economic indicators dependent or independent of the president?
 Our data showed that for Real GDP and Dow Jones stock the president was independent of economy performance (See Figure 1.2). For unemployment and Balance of trade economy is dependent of the presidency (See Figure 1.3). We believe there are other factors that are not covered in our research such as National Security, Health Care, Education and Energy, just to name a few, that should also be counted as influencing factors.
 
-*(Figure 1.2: All Years Real GDP data*
+*Figure 1.2: All Years Real GDP data*
 
 ![all_year_gdp](https://github.com/ltayara1/Fintech_project_1/blob/main/images/all_years_gdp.PNG)
 
