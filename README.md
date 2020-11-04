@@ -45,6 +45,7 @@ Our data showed that for Real GDP and Dow Jones stock the president was independ
 
 *(Figure 1.2: All Years Real GDP data*
 ![all_year_gdp](https://github.com/ltayara1/Fintech_project_1/blob/main/images/all_years_gdp.PNG)
+
 *Figure 1.3: All Years Stock Data*
 ![all_years_dow](https://github.com/ltayara1/Fintech_project_1/blob/main/images/all_years_dow.PNG)
 
@@ -53,11 +54,13 @@ Across trade and unemployment, different presidential parties showed different r
 
 *Figure 1.4: Reagan unemployment Data*
 ![reagan_unemployment](https://github.com/ltayara1/Fintech_project_1/blob/main/images/reagan_unemployment.PNG)
+
 *Figure 1.5: Reagan Balance of Trade Data*
 ![reagan_trade](https://github.com/ltayara1/Fintech_project_1/blob/main/images/reagan_trade.PNG)
 
 *Figure 1.6: Obama unemployment Data*
 ![obama_unemployment](https://github.com/ltayara1/Fintech_project_1/blob/main/images/obama_unemployment.PNG)
+
 *Figure 1.7: Obama unemployment Data*
 ![obama_trade](https://github.com/ltayara1/Fintech_project_1/blob/main/images/obama_trade.PNG)
 
