@@ -38,7 +38,7 @@ When assessing the president’s impact on the economy this was separated into f
 
 *(Figure 1.1)*
 Obama and Reagan Trade and unemployed 
-![all_years](https://github.com/ltayara1/Fintech_project_1/blob/main/images/all_years.PNG)
+![all_graphs](https://github.com/ltayara1/Fintech_project_1/blob/main/images/all_graphs.PNG)
 
 
 #### Question 2: Are the economic indicators dependent or independent of the president?
@@ -51,8 +51,13 @@ Our data showed that for Real GDP and Dow Jones stock the president was independ
 Across trade and unemployment, different presidential parties showed different results. For instance, all Republican presidents, Reagan, Bush Sr., Bush Jr., and Trump, had varying trends in trade and unemployment. The same occurs when comparing Democrat presidents, Clinton and Obama. The two most economically successful presidents in trade and unemployment were Reagan and Obama, from two different political parties. Political party does not show to predict success of trade or unemployment.
 
 *(Figure 1.3)*
-Obama and Reagan Trade and unemployed 
-![all_years](https://github.com/ltayara1/Fintech_project_1/blob/main/images/all_years.PNG)
+Obama unemployed 
+![reagan_unemployment](https://github.com/ltayara1/Fintech_project_1/blob/main/images/reagan_unemployment.PNG)
+*(Figure 1.3)*
+![reagan_trade](https://github.com/ltayara1/Fintech_project_1/blob/main/images/reagan_trade.PNG)
+
+![obama_unemployment](https://github.com/ltayara1/Fintech_project_1/blob/main/images/obama_unemployment.PNG)
+![obama_trade](https://github.com/ltayara1/Fintech_project_1/blob/main/images/obama_trade.PNG)
 
 #### Question 4: Does the length of presidency influence the length of economic influence?
 Reagan, Clinton, Bush Jr. and Obama served two terms each lasting eight years as president. Bush Sr. was the only president to serve one term (4 years). Trump has only had the opportunity to serve one term with the potential to serve another if elected again this month. The data showed improvements from the first to second term for all of the 2-term presidencies. For instance, Bush Jr.’s unemployment was high in his first term, but by the second term, it decreased below the first term. The same thing occurred during Obama’s presidency with the balance of trade improving in the second term. None of the indicators got worse from the first to second term.
