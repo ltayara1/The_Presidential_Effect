@@ -52,6 +52,7 @@ Our data showed that for Real GDP and Dow Jones stock the president was independ
 
 ![all_years_dow](https://github.com/ltayara1/Fintech_project_1/blob/main/images/all_years_dow.PNG)
 
+
 #### Question 3: Does the political party of the president influence the economy?
 Across trade and unemployment, different presidential parties showed different results. For instance, all Republican presidents, Reagan, Bush Sr., Bush Jr., and Trump, had varying trends in trade and unemployment. The same occurs when comparing Democrat presidents, Clinton and Obama. The two most economically successful presidents in trade and unemployment were Reagan and Obama, from two different political parties (Figures 1.4, 1.5, 1.6, 1.7). Political party does not show to predict success of trade or unemployment.
 
@@ -71,17 +72,17 @@ Across trade and unemployment, different presidential parties showed different r
 
 ![obama_trade](https://github.com/ltayara1/Fintech_project_1/blob/main/images/obama_trade.PNG)
 
+
 #### Question 4: Does the length of presidency influence the length of economic influence?
-Reagan, Clinton, Bush Jr. and Obama served two terms each lasting eight years as president. Bush Sr. was the only president to serve one term (4 years). Trump has only had the opportunity to serve one term with the potential to serve another if elected again this month. The data showed improvements from the first to second term for unemployment for all of the 2-term presidencies except for Bush Jr. Balance of trade improved in the second term for the Republican presidents (Reagan and Bush Jr.) but got worse for Democrat presidents (Clinton and Obama).
+Reagan, Clinton, Bush Jr. and Obama served two terms each lasting eight years as president. Bush Sr. was the only president to serve one term (4 years). Trump has only had the opportunity to serve one term with the potential to serve another if elected again this month. The data showed improvements from the first to second term for unemployment for all of the 2-term presidencies except for Bush Jr (Figure 1.8). Balance of trade improved in the second term for the Republican presidents (Reagan and Bush Jr.) but got worse for Democrat presidents (Clinton and Obama). (Figure 1.9)
 
-*Figure 1.8: Bush Jr first to second term Balance of Trade*
+*Figure 1.8: Clinton First to Second Term Unemployment*
 
-![bush_g_trade](https://github.com/ltayara1/Fintech_project_1/blob/main/images/bush_g_trade.PNG)
+![clinton_unemployment](https://github.com/ltayara1/Fintech_project_1/blob/main/images/clinton_unemployment.PNG)
 
+*Figure 1.9: Bush Jr. First to Second term Balance of Trade*
 
-*Figure 1.9: Obama first to second term Balance of Trade*
-
-![obama_trade](https://github.com/ltayara1/Fintech_project_1/blob/main/images/obama_trade.PNG)
+![bush_w_trade](https://github.com/ltayara1/Fintech_project_1/blob/main/images/bush_w_trade.PNG)
 
 
 #### Question 5: How will past economic results help forecast for future elections?
