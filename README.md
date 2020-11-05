@@ -72,11 +72,11 @@ Across trade and unemployment, different presidential parties showed different r
 ![obama_trade](https://github.com/ltayara1/Fintech_project_1/blob/main/images/obama_trade.PNG)
 
 #### Question 4: Does the length of presidency influence the length of economic influence?
-Reagan, Clinton, Bush Jr. and Obama served two terms each lasting eight years as president. Bush Sr. was the only president to serve one term (4 years). Trump has only had the opportunity to serve one term with the potential to serve another if elected again this month. The data showed improvements from the first to second term for all of the 2-term presidencies. For instance, Bush Jr.’s unemployment was high in his first term, but by the second term, it decreased below the first term (Figure 1.8). The same thing occurred during Obama’s presidency with the balance of trade improving in the second term (See Figure 1.9). None of the indicators got worse from the first to second term.
+Reagan, Clinton, Bush Jr. and Obama served two terms each lasting eight years as president. Bush Sr. was the only president to serve one term (4 years). Trump has only had the opportunity to serve one term with the potential to serve another if elected again this month. The data showed improvements from the first to second term for unemployment for all of the 2-term presidencies except for Bush Jr. Balance of trade improved in the second term for the Republican presidents (Reagan and Bush Jr.) but got worse for Democrat presidents (Clinton and Obama).
 
-*Figure 1.8: Bush Jr first to second term unemployment*
+*Figure 1.8: Bush Jr first to second term Balance of Trade*
 
-![bush_w_unemployment](https://github.com/ltayara1/Fintech_project_1/blob/main/images/bush_w_unemployment.PNG)
+![bush_g_trade](https://github.com/ltayara1/Fintech_project_1/blob/main/images/bush_g_trade.PNG)
 
 
 *Figure 1.9: Obama first to second term Balance of Trade*
@@ -95,7 +95,7 @@ We believe there are other factors that are not covered in our research such as 
 ## **Implications**
 *What do the findings mean?*
 
-This data shows that neither the president nor political party necessarily predict the influence on economy. The Dow Jones stock and balance of trade data, especially show no influence from the president. They both increase regardless of the president. Two-term presidencies show more opportunity for economic success than one term.
+This data shows that neither the president nor political party necessarily predict the influence on economy. The Dow Jones stock and balance of trade data, especially show no influence from the president. They both increased regardless of the president. Two-term presidencies in unemployment show more opportunity for economic success than one term, but balance of trade did not show the same.
 
 *How do they impact finance?*
 
